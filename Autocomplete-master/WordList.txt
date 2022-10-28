@@ -1,17 +1,5 @@
-!
-!!
-!?
-(9)
-(o)_(o)
-+
-+++
-+_+
-...
-._.
 007delta
-0_0
 0laffson
-0r0
 0r0ch1
 1-upclock
 101_dalmatian_street
@@ -397,7 +385,7 @@ alpaca
 alpaca_ears
 alpaca_suri_(kemono_friends)
 alpha_channel
-alpha_pokémon
+alpha_pokÃ©mon
 alpha_signature
 alphes_(style)
 alphonse_elric
@@ -3701,7 +3689,7 @@ dated
 daughter
 dawmino
 dawn_(pokemon)
-dawn_(pokémon)
+dawn_(pokÃ©mon)
 dawn_bellwether
 daww
 day
@@ -3912,7 +3900,7 @@ distorted_contour
 distracted
 distracting_watermark
 dithering
-ditto_(pokémon)
+ditto_(pokÃ©mon)
 diving
 diving_mask
 diving_mask_on_head
@@ -5084,7 +5072,7 @@ forsaken_(artist)
 fortnite
 forward_arm_support
 fossa
-fossil_pokémon
+fossil_pokÃ©mon
 fou_(fate)
 fountain
 four-leaf_clover
@@ -6578,7 +6566,7 @@ hikawa_sayo
 hikimayu
 hilbert_(pokemon)
 hilda_(pokemon)
-hilda_(pokémon)
+hilda_(pokÃ©mon)
 hilda_valentine_goneril
 hill
 himbo
@@ -6738,7 +6726,7 @@ holding_pizza
 holding_plate
 holding_poke_ball
 holding_pokemon
-holding_pokéball
+holding_pokÃ©ball
 holding_polearm
 holding_pom_poms
 holding_raised_leg
@@ -7037,7 +7025,7 @@ hyper_sheath
 hyper_thighs
 hypergryph
 hyperstorm_h
-hypno_(pokémon)
+hypno_(pokÃ©mon)
 hypnosis
 hypnotic_eyes
 hypnotic_visor
@@ -8444,7 +8432,7 @@ living_inflatable
 living_insertion
 living_latex
 living_machine
-living_piñata
+living_piÃ±ata
 living_plushie
 living_room
 living_sex_toy
@@ -8949,7 +8937,7 @@ max_blackrabbit
 max_goof
 may_(guilty_gear)
 may_(pokemon)
-may_(pokémon)
+may_(pokÃ©mon)
 maya_(kancolle)
 mayano_top_gun_(umamusume)
 mayor_mare_(mlp)
@@ -10831,7 +10819,7 @@ pentagram
 people
 pepperoni_(girls_und_panzer)
 peppy_hare
-pepé_le_pew
+pepÃ©_le_pew
 perching_position
 percussion_instrument
 perfume_bottle
@@ -10841,7 +10829,7 @@ peritian
 perky_breasts
 perpendicular_paizuri
 perrine_h._clostermann
-persian_(pokémon)
+persian_(pokÃ©mon)
 person_on_head
 personal_grooming
 personalami
@@ -11080,7 +11068,7 @@ pizademokttero
 pizza
 pizza_box
 pizza_slice
-piñata
+piÃ±ata
 plaga
 plagueofgripes
 plaid
@@ -11218,9 +11206,9 @@ pokephilia
 poker_chip
 poking
 poking_out
-pokémon
-pokémon_costume
-pokémon_fusion
+pokÃ©mon
+pokÃ©mon_costume
+pokÃ©mon_fusion
 pola_(kancolle)
 polar_bear
 polar_chaldea_uniform
@@ -12752,7 +12740,7 @@ shading_eyes
 shadman
 shadow
 shadow_lugia
-shadow_pokémon
+shadow_pokÃ©mon
 shadow_siren
 shadow_the_hedgehog
 shadowpelt
@@ -13724,7 +13712,7 @@ stance
 stand_(jojo)
 stand_and_carry_position
 standard_bearer
-standard_pokéball
+standard_pokÃ©ball
 standing
 standing_doggystyle
 standing_in_water
@@ -16437,5 +16425,5 @@ zwitterkitsune
 zzz
 |_|
 ||_||
-©
+Â©
 okami
