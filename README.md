@@ -23,5 +23,6 @@ https://gist.github.com/g-l-i-t-c-h-o-r-s-e/4627cc6996c3550250e4ac287e78f7eb#com
 # TODO:<br>
 Add E621 interrogation and deepderpibooru [ ]<br>
 Image Cropping [ ]<br>
+Refine Image resizing in UI [ ]
 
 ![image](https://user-images.githubusercontent.com/17163949/198736185-e80236ec-3954-48ab-b714-ce057f6d91f4.png)
