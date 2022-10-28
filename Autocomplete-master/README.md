@@ -1,3 +1,5 @@
+**I slightly modified this to only run on my image tagging ui
+
 Autocomplete by Uberi
 =====================
 Suggests and completes words as you type! Write faster and more efficiently.
