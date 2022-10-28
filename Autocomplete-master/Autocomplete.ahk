@@ -215,7 +215,7 @@ GuiControl, Choose, Matched, % Key = 0 ? 10 : Key
 Gosub, CompleteWord
 Return
 
-#IfWinActive,AI_Tagger.ahk
+#IfWinActive,Image_Tagger.ahk
 
 ~BackSpace::
 CurrentWord := SubStr(CurrentWord,1,-1)
