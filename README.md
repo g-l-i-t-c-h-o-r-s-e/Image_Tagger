@@ -5,7 +5,7 @@ You can use imgbrd-grabber to do so.
 Deepdanbooru interrogation<br>
 Custom tag suggestion autocomplete<br>
 
-# Requirements
+# Requirements:
 https://www.autohotkey.com/download/ahk-install.exe
 
 **To Use Deepdanbooru you need this fork!**<br>
