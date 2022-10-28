@@ -1,6 +1,10 @@
 This script assumes you have already scraped your images and have an additional .txt file containing the images tags.<br>
 You can use imgbrd-grabber to do so.
 
+# Features:
+Deepdanbooru interrogation<br>
+Custom tag suggestion autocomplete<br>
+
 # Requirements
 https://www.autohotkey.com/download/ahk-install.exe
 
