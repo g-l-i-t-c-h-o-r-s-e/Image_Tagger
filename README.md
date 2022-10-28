@@ -8,10 +8,9 @@ Custom tag suggestion/autocomplete<br>
 # Requirements:
 https://www.autohotkey.com/download/ahk-install.exe
 
-**To Use Deepdanbooru you need this fork!**<br>
-this is how I installed it:
+This is how I installed Deepdanbooru:
 ```
-git clone https://github.com/chavinlo/DeepDanbooru.git
+git clone https://github.com/KichangKim/DeepDanbooru
 pip install -r requirements.txt
 pip install . 
 deepdanbooru create-project ayylmao
