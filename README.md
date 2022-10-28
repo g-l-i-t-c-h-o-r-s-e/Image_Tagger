@@ -14,3 +14,8 @@ deepdanbooru create-project ayylmao
 ```
 Additional Info here:
 https://gist.github.com/g-l-i-t-c-h-o-r-s-e/4627cc6996c3550250e4ac287e78f7eb#comments
+
+
+TODO:<br>
+Add E621 interrogation and deepderpibooru []<br>
+Image Cropping []<br>
