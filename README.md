@@ -4,6 +4,7 @@ You can use imgbrd-grabber to do so.
 # Features:
 Deepdanbooru interrogation<br>
 Custom tag suggestion/autocomplete<br>
+Tag Autocompleye/suggestion
 
 # Requirements:
 https://www.autohotkey.com/download/ahk-install.exe
